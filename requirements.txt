@@ -1,1 +1,2 @@
-install the Flask framework and the Gunicorn server
+Flask 
+gunicorn
